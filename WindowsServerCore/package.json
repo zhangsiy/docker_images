@@ -2,7 +2,7 @@
   "name": "win-core-image",
   "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": "Jeff Zhang",
   "license": "ISC",
   "devDependencies": {
     "child-process-promise": "^2.2.1",
