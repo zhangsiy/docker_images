@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore:1.1.2
+FROM microsoft/aspnetcore-build:1.1.2
 # Install nodejs
 RUN apt-get update -y 
 RUN curl -sL https://deb.nodesource.com/setup_8.x | bash
